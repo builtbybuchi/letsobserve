@@ -1,4 +1,4 @@
-# Let's Observe 🌍
+# Let's Observe
 
 A cross-platform health observatory mobile application that aggregates real-time global health data from multiple authoritative sources into a single, beautiful interface.
 
@@ -37,7 +37,7 @@ The project is structured as a **monorepo**:
 ### AI Chat *(Coming Soon)*
 - Placeholder tab for a future AI-powered health data assistant.
 
-### ⚙️ Settings
+### Settings
 - **Appearance** — Light, Dark, or System Default theme with persistent selection.
 - **Notifications** — Push notification toggle.
 - **About** — App version, Lexrunit company info, Privacy Policy & Terms of Service links.
