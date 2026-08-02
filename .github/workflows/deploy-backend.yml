@@ -34,4 +34,4 @@ jobs:
           DOPPLER_TOKEN: ${{ secrets.DOPPLER_TOKEN }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-        run: doppler run --project letsobserve --config prd -- wrangler deploy src/index.ts
+        run: doppler run --project letsobserve --config prd -- npx wrangler deploy src/index.ts
