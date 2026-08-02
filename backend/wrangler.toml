@@ -1,0 +1,6 @@
+name = "letsobserve-backend"
+main = "src/index.ts"
+compatibility_date = "2024-02-22"
+
+[vars]
+# RESTCOUNTRIES_API_KEY injected by Doppler in CI

@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "GlobeTrotter",
-    "slug": "GlobeTrotter",
+    "name": "Let's Observe",
+    "slug": "lets-observe",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
